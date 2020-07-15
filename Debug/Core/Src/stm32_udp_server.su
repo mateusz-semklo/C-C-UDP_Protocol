@@ -1,0 +1,8 @@
+stm32_udp_server.c:41:9:serverUDPInit	16	static
+stm32_udp_server.c:81:22:serverUDPStart	16	static
+stm32_udp_server.c:140:6:serverUDPDisconnect	8	static
+stm32_udp_server.c:156:9:serverUDPSendString	32	static
+stm32_udp_server.c:214:15:serverUDPWorks	32	static
+stm32_udp_server.c:274:6:ethernetif_notify_conn_changed	16	static
+stm32_udp_server.c:298:13:udpReceiveCallback	40	static
+stm32_udp_server.c:328:13:udpUserNotification	16	static
